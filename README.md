@@ -1,16 +1,55 @@
-## Hi there 👋
+# Brandon Blake
 
-<!--
-**dionnblake/dionnblake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Customer Support & Operations Professional | AI Automation Builder
 
-Here are some ideas to get you started:
+I have 15+ years of experience in customer support, escalations, technical troubleshooting, and customer advocacy.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Today I focus on building AI-powered business solutions including:
+
+- AI Voice Agents
+- Retrieval-Augmented Generation (RAG) Systems
+- Workflow Automations
+- Customer Support AI Tools
+- Business Websites
+
+## Current Projects
+
+### AI Support Agent Knowledge Base
+A RAG system that allows users to upload company documents and ask questions using natural language.
+
+Tech Stack:
+- OpenAI
+- LangChain
+- ChromaDB
+- Streamlit
+
+Features:
+- PDF document ingestion
+- Semantic search
+- Source citations
+- Conversation history
+
+### Alpha Leverage
+AI-powered voice receptionist and lead automation solutions for service businesses.
+
+### Alpha Starts Now
+Lifestyle and self-improvement brand focused on helping men build better habits, confidence, and health.
+
+## Skills
+
+- Customer Success
+- Customer Support
+- Escalation Management
+- AI Automation
+- Prompt Engineering
+- GoHighLevel
+- VAPI
+- Make
+- Python
+- LangChain
+- OpenAI APIs
+
+## Connect
+
+LinkedIn: https://linkedin.com/in/YOURPROFILE
+GitHub: https://github.com/dionnblake
