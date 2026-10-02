@@ -51,5 +51,5 @@ Lifestyle and self-improvement brand focused on helping men build better habits,
 
 ## Connect
 
-LinkedIn: https://www.linkedin.com/in/brandon-b-b17a8aa0
+LinkedIn: https://www.linkedin.com/in/brandon-blake-b5265641b
 GitHub: https://github.com/dionnblake
