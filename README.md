@@ -1,53 +1,50 @@
-# Brandon Blake
+# Hi, I'm Bran
 
-Customer Support & Operations Professional | AI Automation Builder
+I build AI workflows and automation that solve real business problems.
 
-I have 15+ years of experience in customer support, escalations, technical troubleshooting, and customer advocacy.
+My work includes multi-agent systems, private knowledge tools, Android apps, and websites built for my own businesses, not copied from tutorials.
 
-Today I focus on building AI-powered business solutions including:
+I don't have a computer science degree. My proof is the work: systems designed, built, tested, documented, and used for real needs. **The repos are the résumé.**
 
-- AI Voice Agents
-- Retrieval-Augmented Generation (RAG) Systems
-- Workflow Automations
-- Customer Support AI Tools
-- Business Websites
+## Flagship: Company OS Case Study
 
-## Current Projects
+A public case study of the private multi-agent operating system I built to coordinate work across my businesses.
 
-### AI Support Agent Knowledge Base
-A RAG system that allows users to upload company documents and ask questions using natural language.
+```text
+Blake OS
+  -> Project OS
+    -> Alpha Foundry
+      -> Agentic workforce
+        -> Private knowledge library (~5,000 books)
+          -> Governed memory
+            -> Security layer
+```
 
-Tech Stack:
-- OpenAI
-- LangChain
-- ChromaDB
-- Streamlit
+It combines agent operating rules, project routing, bounded workers, specialized agents, local RAG, controlled learning, and reusable security checks. The public case study explains the architecture and business purpose without exposing private code, data, or credentials.
 
-Features:
-- PDF document ingestion
-- Semantic search
-- Source citations
-- Conversation history
+## Featured work
 
-### Alpha Leverage
-AI-powered voice receptionist and lead automation solutions for service businesses.
+### [AI Journal Android Case Study](https://github.com/dionnblake/ai-journal-android-case-study)
 
-### Alpha Starts Now
-Lifestyle and self-improvement brand focused on helping men build better habits, confidence, and health.
+A recruiter-readable case study for a private AI-assisted journaling app, covering its product decisions, Android architecture, voice workflows, AI features, and privacy boundaries.
 
-## Skills
+### [AI Support Knowledge Base](https://github.com/dionnblake/ai-support-knowledge-base)
 
-- Customer Success
-- Customer Support
-- Escalation Management
-- AI Automation
-- Prompt Engineering
-- GoHighLevel
-- VAPI
-- Make
-- Python
-- LangChain
-- OpenAI APIs
+A tested Python and Streamlit RAG tool that answers questions over business documents with source citations and a Chroma vector store.
+
+### [Kalani's Word World](https://github.com/dionnblake/kalani-word-world)
+
+A shipped Kotlin and Jetpack Compose learning app for toddlers, with five activities, 793 mapped voice assets, offline narration, and a release checklist.
+
+## Stack
+
+**Kotlin · Jetpack Compose · Python · Streamlit · SQLite · RAG · Embeddings · Chroma · Website builds**
+
+I build with **Codex, Claude, Antigravity, and Hermes**.
+
+## Open to work
+
+I'm seeking a full-time **AI workflow specialist** or **automation specialist** role where I can turn business problems into practical AI-assisted systems.
 
 ## Connect
 
