@@ -1,46 +1,40 @@
 # Hi, I'm Bran
 
-I build AI workflows and automation that solve real business problems.
+I build practical AI workflows and automation for real business needs. My focus is reliable behavior: grounding outputs in evidence, limiting how systems act, and keeping people in control.
 
-My work includes multi-agent systems, private knowledge tools, Android apps, and websites built for my own businesses, not copied from tutorials.
+The projects below include software repositories and recruiter-facing case studies. I label the difference so their status is clear.
 
-I don't have a computer science degree. My proof is the work: systems designed, built, tested, documented, and used for real needs. **The repos are the résumé.**
+## Software and systems
 
-## Flagship: Company OS Case Study
+### [CareerForge Agent](https://github.com/dionnblake/careerforge-agent)
 
-A public case study of the private multi-agent operating system I built to coordinate work across my businesses.
+A TypeScript and Fastify service for evidence-grounded resume tailoring. It builds a candidate fact ledger, restricts generation to approved facts, checks for unsupported or contradicted claims, and allows at most one bounded revision. Its mock-provider demo uses a synthetic candidate.
 
-```text
-Blake OS
-  -> Project OS
-    -> Alpha Foundry
-      -> Agentic workforce
-        -> Private knowledge library (~5,000 books)
-          -> Governed memory
-            -> Security layer
-```
+### [Council of Agents](https://github.com/dionnblake/Council-Of-Agents)
 
-It combines agent operating rules, project routing, bounded workers, specialized agents, local RAG, controlled learning, and reusable security checks. The public case study explains the architecture and business purpose without exposing private code, data, or credentials.
-
-## Featured work
-
-### [AI Journal Android Case Study](https://github.com/dionnblake/ai-journal-android-case-study)
-
-A recruiter-readable case study for a private AI-assisted journaling app, covering its product decisions, Android architecture, voice workflows, AI features, and privacy boundaries.
+A Windows-first, local-first technical deliberation app that preserves independent analysis and dissent for a human decision. V1 is a **release candidate, not production-certified**; the public README lists certification work that remains unverified.
 
 ### [AI Support Knowledge Base](https://github.com/dionnblake/ai-support-knowledge-base)
 
-A tested Python and Streamlit RAG tool that answers questions over business documents with source citations and a Chroma vector store.
+A Python and Streamlit support RAG app with document ingestion, inline source citations, and local Chroma persistence. Model-backed answers use an API provider; the repository also documents offline tests.
 
 ### [Kalani's Word World](https://github.com/dionnblake/kalani-word-world)
 
-A shipped Kotlin and Jetpack Compose learning app for toddlers, with five activities, 793 mapped voice assets, offline narration, and a release checklist.
+A Kotlin and Jetpack Compose learning app in active development. Its published README lists unresolved release blockers, so I do not describe it as shipped.
 
-## Stack
+## Case studies
 
-**Kotlin · Jetpack Compose · Python · Streamlit · SQLite · RAG · Embeddings · Chroma · Website builds**
+### [Company OS Case Study](https://github.com/dionnblake/company-os-case-study)
 
-I build with **Codex, Claude, Antigravity, and Hermes**.
+A public architecture and engineering case study of a local-first, human-governed multi-agent operating system. The implementation repositories are private, and the case study does not claim production readiness.
+
+### [AI Journal Android Case Study](https://github.com/dionnblake/ai-journal-android-case-study)
+
+A public product and architecture case study for a private Android journaling app, covering AI-assisted reflection, voice workflows, and privacy boundaries. The application source code is not public.
+
+## Focus
+
+Local-first AI systems · evidence-grounded retrieval · bounded agent workflows · privacy and reliability controls · human-reviewed automation.
 
 ## Open to work
 
@@ -48,5 +42,4 @@ I'm seeking a full-time **AI workflow specialist** or **automation specialist** 
 
 ## Connect
 
-LinkedIn: https://www.linkedin.com/in/brandondionnblake
-GitHub: https://github.com/dionnblake
+[LinkedIn](https://www.linkedin.com/in/brandondionnblake) · [GitHub](https://github.com/dionnblake)
