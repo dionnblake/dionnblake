@@ -1,4 +1,4 @@
-# Hi, I'm Bran
+# Hi, I'm Brandon
 
 I build AI workflows and automation that solve real business problems.
 
