@@ -15,7 +15,7 @@ Blake OS
   -> Project OS
     -> Alpha Foundry
       -> Agentic workforce
-        -> Private knowledge library (~5,000 books)
+        -> Private knowledge library
           -> Governed memory
             -> Security layer
 ```
