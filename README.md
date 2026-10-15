@@ -1,52 +1,45 @@
-# Hi, I'm Brandon
+# Brandon Blake
 
-I build AI workflows and automation that solve real business problems.
+**AI Workflow Automation | Knowledge Systems | Support Operations**
 
-My work includes multi-agent systems, private knowledge tools, Android apps, and websites built for my own businesses, not copied from tutorials.
+I bring more than 15 years of customer-support and technical-operations experience to practical AI-assisted systems. My background includes benefits support, business wireless troubleshooting, executive escalations, documentation and cross-functional investigation.
 
-I don't have a computer science degree. My proof is the work: systems designed, built, tested, documented, and used for real needs. **The repos are the résumé.**
+In independent projects, I design workflows, direct AI-assisted implementation, review changes and assess test evidence. I focus on clear inputs, bounded execution, useful source evidence, visible failures and human review. Each showcase explains what is demonstrated and what remains unverified.
 
-## Flagship: Company OS Case Study
+## Featured projects
 
-A public case study of the private multi-agent operating system I built to coordinate work across my businesses.
+### 1. [Library of Knowledge](https://github.com/dionnblake/library-of-knowledge-case-study)
 
-```text
-Blake OS
-  -> Project OS
-    -> Alpha Foundry
-      -> Agentic workforce
-        -> Private knowledge library
-          -> Governed memory
-            -> Security layer
-```
+Private document search and evidence retrieval. An isolated original-document demonstration shows source passages, search-only fallback when synthesis is unavailable, and abstention when evidence is missing. **Private implementation; public case study.**
 
-It combines agent operating rules, project routing, bounded workers, specialized agents, local RAG, controlled learning, and reusable security checks. The public case study explains the architecture and business purpose without exposing private code, data, or credentials.
+### 2. [Company OS Case Study](https://github.com/dionnblake/company-os-case-study)
 
-## Featured work
+Human-controlled AI workflow orchestration. The architecture separates project routing, bounded work, evidence and authorization. Component contracts and integrated readiness are presented separately. **Private implementations; architecture case study.**
 
-### [AI Journal Android Case Study](https://github.com/dionnblake/ai-journal-android-case-study)
+### 3. [LTX Content Director Max](https://github.com/dionnblake/ltx-content-director-max-case-study)
 
-A recruiter-readable case study for a private AI-assisted journaling app, covering its product decisions, Android architecture, voice workflows, AI features, and privacy boundaries.
+AI-video preparation, validation and review. Deterministic job IDs and visible blocked-input/retry states make a queue inspectable. The demonstration is a dry run that generates no media. **Private implementation; public case study.**
 
-### [AI Support Knowledge Base](https://github.com/dionnblake/ai-support-knowledge-base)
+### 4. [Python Mission Control](https://github.com/dionnblake/python-mission-control)
 
-A tested Python and Streamlit RAG tool that answers questions over business documents with source citations and a Chroma vector store.
+An offline Python-learning desktop application with real CPython execution tracing and local progress storage. Fresh component evidence and historical native verification are labeled separately. **Public application source.**
 
-### [Kalani's Word World](https://github.com/dionnblake/kalani-word-world)
+### 5. [Council of Agents V2](https://github.com/dionnblake/council-of-agents-v2-case-study)
 
-A shipped Kotlin and Jetpack Compose learning app for toddlers, with five activities, 793 mapped voice assets, offline narration, and a release checklist.
+Structured deliberation with a human decision boundary. The actual V2 core is distinct from V1 and from its synthetic read-only interface preview. Fixture screens do not prove a live multi-provider debate. **Private V2 implementation; public case study.**
 
-## Stack
+### 6. [AI Support Knowledge Base](https://github.com/dionnblake/ai-support-knowledge-base)
 
-**Kotlin · Jetpack Compose · Python · Streamlit · SQLite · RAG · Embeddings · Chroma · Website builds**
+Document retrieval plus a small local support-workflow sample. Synthetic tickets produce cited deterministic drafts, with duplicate handling, recovery and explicit local review. No customer or CRM action occurs. **Public source and offline sample.**
 
-I build with **Codex, Claude, Antigravity, and Hermes**.
+## Demonstrated project technologies
 
-## Open to work
+Python · Node.js · SQLite/FTS5 · React/TypeScript · Rust/Tauri · Streamlit · document retrieval and citation mapping · Git/GitHub
 
-I'm seeking a full-time **AI workflow specialist** or **automation specialist** role where I can turn business problems into practical AI-assisted systems.
+These are project technologies, not a claim of expert proficiency in every dependency. AI tools assist implementation and review; workflow ownership and evidence assessment remain explicit.
 
-## Connect
+## Professional focus
 
-LinkedIn: https://www.linkedin.com/in/brandondionnblake
-GitHub: https://github.com/dionnblake
+AI workflow automation, knowledge systems and support operations: translating a support problem into a bounded workflow, documenting exception paths and keeping a human responsible for consequential actions.
+
+[GitHub](https://github.com/dionnblake) · [LinkedIn](https://www.linkedin.com/in/brandondionnblake)
