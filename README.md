@@ -8,29 +8,29 @@ In independent projects, I design workflows, direct AI-assisted implementation, 
 
 ## Featured projects
 
-### 1. [Library of Knowledge](https://github.com/dionnblake/library-of-knowledge-case-study)
+### 1. [AI Post-Sales Support Autopilot](https://github.com/dionnblake/ai-post-sales-support-autopilot)
+
+LLM-assisted support pipeline: ticket triage (category, urgency, sentiment), RAG-grounded reply drafts with checked source citations, queue routing, SLA escalation, and human approval bound to the exact draft before anything is sent. 65 tests, CI, and a [live demo](https://support-autopilot-demo.streamlit.app). **Public source and live demo.**
+
+### 2. [Library of Knowledge](https://github.com/dionnblake/library-of-knowledge-case-study)
 
 Private document search and evidence retrieval. An isolated original-document demonstration shows source passages, search-only fallback when synthesis is unavailable, and abstention when evidence is missing. **Private implementation; public case study.**
 
-### 2. [Company OS Case Study](https://github.com/dionnblake/company-os-case-study)
+### 3. [Company OS Case Study](https://github.com/dionnblake/company-os-case-study)
 
 Human-controlled AI workflow orchestration. The architecture separates project routing, bounded work, evidence and authorization. Component contracts and integrated readiness are presented separately. **Private implementations; architecture case study.**
 
-### 3. [LTX Content Director Max](https://github.com/dionnblake/ltx-content-director-max-case-study)
+### 4. [LTX Content Director Max](https://github.com/dionnblake/ltx-content-director-max-case-study)
 
 AI-video preparation, validation and review. Deterministic job IDs and visible blocked-input/retry states make a queue inspectable. The demonstration is a dry run that generates no media. **Private implementation; public case study.**
 
-### 4. [Python Mission Control](https://github.com/dionnblake/python-mission-control)
+### 5. [Python Mission Control](https://github.com/dionnblake/python-mission-control)
 
 An offline Python-learning desktop application with real CPython execution tracing and local progress storage. Fresh component evidence and historical native verification are labeled separately. **Public application source.**
 
-### 5. [Council of Agents V2](https://github.com/dionnblake/council-of-agents-v2-case-study)
+### 6. [Council of Agents V2](https://github.com/dionnblake/council-of-agents-v2-case-study)
 
 Structured deliberation with a human decision boundary. The actual V2 core is distinct from V1 and from its synthetic read-only interface preview. Fixture screens do not prove a live multi-provider debate. **Private V2 implementation; public case study.**
-
-### 6. [AI Support Knowledge Base](https://github.com/dionnblake/ai-support-knowledge-base)
-
-Document retrieval plus a small local support-workflow sample. Synthetic tickets produce cited deterministic drafts, with duplicate handling, recovery and explicit local review. No customer or CRM action occurs. **Public source and offline sample.**
 
 ## Demonstrated project technologies
 
