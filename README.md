@@ -8,7 +8,7 @@ In independent projects, I design workflows, direct AI-assisted implementation, 
 
 ## Featured projects
 
-Each preview loops automatically. Click it for the project and its demonstration scope.
+Play a preview for a short visual walkthrough; open its project for details and demonstration scope.
 
 ### 1. [AI Post-Sales Support Autopilot](https://github.com/dionnblake/ai-post-sales-support-autopilot)
 
