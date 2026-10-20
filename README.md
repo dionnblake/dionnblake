@@ -28,19 +28,19 @@ Private document search and evidence retrieval. An isolated original-document de
 
 ### 3. [Company OS Case Study](https://github.com/dionnblake/company-os-case-study)
 
-[![Company OS: visual walkthrough](https://raw.githubusercontent.com/dionnblake/company-os-case-study/main/assets/demo.gif)](https://github.com/dionnblake/company-os-case-study)
+[![Company OS: visual walkthrough](https://raw.githubusercontent.com/dionnblake/company-os-case-study/main/assets/interface-demo.gif)](https://github.com/dionnblake/company-os-case-study)
 
-*Architecture / source-contract reports | No single app UI | No integrated runtime recording*
+*Actual THE COMPANY / Owner Console V1 app screens | Development fixtures | Read-only visual shell*
 
-Human-controlled AI workflow orchestration. The architecture separates project routing, bounded work, evidence and authorization. Component contracts and integrated readiness are presented separately. **Private implementations; architecture case study.**
+Human-controlled AI workflow orchestration with THE COMPANY / Owner Console V1 interface. The visual shell shows work, owner review, governance and systems using development fixtures. Component contracts and integrated readiness are presented separately. **Private implementations; architecture case study.**
 
 ### 4. [LTX Content Director Max](https://github.com/dionnblake/ltx-content-director-max-case-study)
 
-[![LTX Content Director Max: visual walkthrough](https://raw.githubusercontent.com/dionnblake/ltx-content-director-max-case-study/main/assets/demo.gif)](https://github.com/dionnblake/ltx-content-director-max-case-study)
+[![LTX Content Director Max: visual walkthrough](https://raw.githubusercontent.com/dionnblake/ltx-content-director-max-case-study/main/assets/interface-demo.gif)](https://github.com/dionnblake/ltx-content-director-max-case-study)
 
-*Recorded dry-run reports | Simulated retry | No generated media or live generation*
+*Actual Intake V2 frontend screens | Fictional demo brief | No media generation*
 
-AI-video preparation, validation and review. Deterministic job IDs and visible blocked-input/retry states make a queue inspectable. The demonstration is a dry run that generates no media. **Private implementation; public case study.**
+AI-video intake, preparation, validation and review. The frontend walkthrough shows six brief-collection steps with fictional data. Separate queue evidence demonstrates deterministic job IDs and simulated retries; no media is generated. **Private implementation; public case study.**
 
 ### 5. [Python Mission Control](https://github.com/dionnblake/python-mission-control)
 
